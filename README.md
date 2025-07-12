@@ -27,3 +27,10 @@ Follow these steps to set up your Git repository:
 6. Push your changes to GitHub:
    ```sh
    git push -u origin main
+   ```
+   or if setting the upstream:
+   ```sh
+   git push --set-upstream origin main
+
+   
+   
