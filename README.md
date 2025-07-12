@@ -9,7 +9,13 @@ This project demonstrates the implementation of microservices architecture. It i
 3. [Project Structure](#project-structure)
 4. [How to Contribute](#how-to-contribute)
 5. [License](#license)
-   
+
+## Project Structure
+src/ - Contains the source code of microservices.
+tests/ - Includes unit tests for the services.
+docs/ - Documentation related to microservices architecture.
+config/ - Configuration files for deployment.
+
 ## Git Initial Setup
 
 Follow these steps to set up your Git repository:
